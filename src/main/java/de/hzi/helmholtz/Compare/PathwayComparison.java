@@ -649,7 +649,7 @@ public class PathwayComparison {
         // write result ot database for further use
         try {
             if (self != 1) {
-                todatabase.WriteToDatabase(UniqueJobID, SourcePathwaysID[0].trim(), SourcePathwaysID[1].trim(), TargetPathwaysID[0].trim(), TargetPathwaysID[1].trim(), bestResultMapping.toString(), Bitscore, eval);
+//                todatabase.WriteToDatabase(UniqueJobID, SourcePathwaysID[0].trim(), SourcePathwaysID[1].trim(), TargetPathwaysID[0].trim(), TargetPathwaysID[1].trim(), bestResultMapping.toString(), Bitscore, eval);
             }
 
         } catch (Exception ex) {

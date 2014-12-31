@@ -33,7 +33,7 @@ public class ThriftServiceHandler
     public String SimpleCompare(String jobID, String windowSize, String algorithm, String mxbaseID, String modelID,String ModulesFromEditor) throws org.apache.thrift.TException {
         SimpleCompare compare = new SimpleCompare();
         System.out.println(jobID+"   "+ windowSize+"   "+  algorithm+"   "+  mxbaseID+"   "+  modelID+"   "+ ModulesFromEditor);
-        String returning_value = compare.StartComparison(jobID, windowSize, algorithm, mxbaseID, modelID,ModulesFromEditor);
+        String returning_value = "fake return values";//compare.StartComparison(jobID, windowSize, algorithm, mxbaseID, modelID,ModulesFromEditor);
         return returning_value;
     }
 }

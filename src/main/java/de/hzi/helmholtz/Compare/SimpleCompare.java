@@ -80,6 +80,10 @@ public class SimpleCompare {
         try {
             DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
             Calendar cal = Calendar.getInstance();
+            /*
+              NOTE: PLEASE AVOID WRITING TO SYS.OUT, For debugging info and logging use log4j
+              http://logging.apache.org/log4j/2.x/
+             */
             System.out.println("Thrift started StartComparison ..." + dateFormat.format(cal.getTime()));
             returnvalue = setupConnection();
             if (returnvalue.equalsIgnoreCase("Success")) {
