@@ -1,0 +1,7 @@
+Ccc1071-Pha-1:  ctg1_orf00002-ctg1_orf00003-ctg1_orf00005-ctg1_orf00006-ctg1_orf00008-ctg1_orf00011-ctg1_orf00012-ctg1_orf00013-ctg1_orf00016-ctg1_orf00018-ctg1_orf00023-ctg1_orf00027-ctg1_orf00029-ctg1_orf00031-ctg1_orf00034-ctg1_orf00035-ctg1_orf00037-ctg1_orf00038-ctg1_orf00040-ctg1_orf00042-ctg1_orf00045
+
+DK1622-Mxa-1: ctg1_orf00001-ctg1_orf00002-ctg1_orf00003-ctg1_orf00004-ctg1_orf00005-ctg1_orf00008-ctg1_orf00009-ctg1_orf00010-ctg1_orf00011-ctg1_orf00012-ctg1_orf00014-ctg1_orf00015-ctg1_orf00018-ctg1_orf00019-ctg1_orf00020-ctg1_orf00022-ctg1_orf00023-ctg1_orf00024
+
+MxA47-Mxa-1: ctg1_orf00002-ctg1_orf00001-ctg1_orf00003-ctg1_orf00004-ctg1_orf00005-ctg1_orf00006-ctg1_orf00007-ctg1_orf00008-ctg1_orf00009-ctg1_orf00011-ctg1_orf00012-ctg1_orf00013-ctg1_orf00015-ctg1_orf00016-ctg1_orf00017-ctg1_orf00019-ctg1_orf00020-ctg1_orf00021-ctg1_orf00022-ctg1_orf00024-ctg1_orf00025
+
+Sga15-Mxa-1: ctg1_orf00001-ctg1_orf00004-ctg1_orf00006-ctg1_orf00007-ctg1_orf00008-ctg1_orf00009-ctg1_orf00014-ctg1_orf00016-ctg1_orf00019-ctg1_orf00021-ctg1_orf00023-ctg1_orf00024
